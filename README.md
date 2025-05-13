@@ -50,4 +50,7 @@ The dashboard showcases the following key visualizations:
 
 Feel free to fork this repository and suggest improvements, additional charts, or integrations with real-time data feeds.
 
+## Output 
+![Image](https://github.com/user-attachments/assets/b1b9ce9e-47c3-49a0-8b3f-5ea2ed08e9d6)
+
 
